@@ -5,7 +5,7 @@
 #   if n<=1
 #     return false
 #   end
-# 
+#
 #   arr = (2..n-1).to_a
 #   for num in arr do
 #     if n%num == 0
